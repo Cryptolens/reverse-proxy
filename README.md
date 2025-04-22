@@ -1,6 +1,6 @@
 # reverse-proxy
 
-In this repository, we have included scripts that are necessary to run a reverse proxy that will forward requests to Cryptolens Web API. The goal of this setup is to have a custom url and IP that is used to verify license keys. For example, if the IP needs to be from a certain country or if you want to use your custom domain, a reverse proxy can accomplish that.
+In this repository, we have included scripts that are necessary to run a reverse proxy that will forward requests to Cryptolens Web API. The goal of this setup is to have a custom url and IP that is used to verify license keys. For example, if the IP needs to be from a certain geographical location or if you want to use your custom domain, a reverse proxy can accomplish that.
 
 To get started, the following steps are recommended:
 1. Obtain a Linux VM.
