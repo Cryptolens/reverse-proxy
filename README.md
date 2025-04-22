@@ -8,4 +8,4 @@ To get started, the following steps are recommended:
 3. Change the `default.conf` in the `/etc/nginx/conf.d` to the one in this repository. The key is to include all the "location" blocks (and add more if necessary), as well as to set the domain name that you will be using.
 4. If you link a subdomain to the VM, you can use Let's Encrypt to manage the SSL certificate.
 
-If you would need any help or would like us to manage a VM on your behalf, please reach out to us at support@cryptolens.io.
+If you would need any help or would like us to manage the reverse proxy on your behalf, please reach out to us at support@cryptolens.io.
